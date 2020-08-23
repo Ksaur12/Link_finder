@@ -1,2 +1,2 @@
 # Link_finder
-You can Link_finder to find links in a URL
+You cam use Link_finder to find links in a URL
